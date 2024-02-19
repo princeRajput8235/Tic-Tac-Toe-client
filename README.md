@@ -1,4 +1,4 @@
-# Async Tic Tac Toe
+#  Tic Tac Toe
 ## 1. Links
 ### Backend: https://witty-lime-tuxedo.cyclic.app/
 ### Frontend: https://tic-tac-toe-fullstack.netlify.app/
